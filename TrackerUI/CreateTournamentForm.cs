@@ -91,10 +91,12 @@ namespace TrackerUI {
     }
 
     private void prizeDeleteButton_Click(object sender, EventArgs e) {
-      PrizeModel prize = (PrizeModel)tournamentPlayerListBox.SelectedItem;
+
+      PrizeModel prize = (PrizeModel)prizesListBox.SelectedItem;
       if (prize != null) {
+
         selectedPrizes.Remove(prize);
-        availablePrizes.Add(prize);
+        //availablePrizes.Add(prize);
 
         WireUpLists();
       }

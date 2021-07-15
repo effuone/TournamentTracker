@@ -194,7 +194,7 @@ namespace TrackerUI {
       this.prizeDeleteButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
       this.prizeDeleteButton.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
       this.prizeDeleteButton.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
-      this.prizeDeleteButton.Location = new System.Drawing.Point(782, 345);
+      this.prizeDeleteButton.Location = new System.Drawing.Point(784, 345);
       this.prizeDeleteButton.Name = "prizeDeleteButton";
       this.prizeDeleteButton.Size = new System.Drawing.Size(110, 87);
       this.prizeDeleteButton.TabIndex = 23;

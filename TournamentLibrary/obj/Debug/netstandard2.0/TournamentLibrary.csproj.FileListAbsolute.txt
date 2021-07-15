@@ -1,0 +1,9 @@
+C:\Users\777\source\repos\TournamentLibrary\TournamentLibrary\bin\Debug\netstandard2.0\TournamentLibrary.deps.json
+C:\Users\777\source\repos\TournamentLibrary\TournamentLibrary\bin\Debug\netstandard2.0\TournamentLibrary.dll
+C:\Users\777\source\repos\TournamentLibrary\TournamentLibrary\bin\Debug\netstandard2.0\TournamentLibrary.pdb
+C:\Users\777\source\repos\TournamentLibrary\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.AssemblyInfoInputs.cache
+C:\Users\777\source\repos\TournamentLibrary\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.AssemblyInfo.cs
+C:\Users\777\source\repos\TournamentLibrary\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\TournamentLibrary\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.dll
+C:\Users\777\source\repos\TournamentLibrary\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.pdb
+C:\Users\777\source\repos\TournamentLibrary\TournamentLibrary\obj\Debug\netstandard2.0\TournamentLibrary.csprojAssemblyReference.cache

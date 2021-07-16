@@ -39,14 +39,15 @@ namespace TournamentLibrary.DataAccess.TextHelpers {
       List<PersonModel> people = peopleFileName.FullFilePath().LoadFile().ConvertToPeopleModels();
       foreach (var line in lines) {
         string[] cols = line.Split(',');
-        var model = new TeamModel();
-        model.Id = int.Parse(cols[0]);
-        model.TeamName = cols[1];
+        var model = new TeamModel {
+          Id = int.Parse(cols[0]),
+          TeamName = cols[1]
+        };
         string[] personIds = cols[2].Split('|');
         foreach (string id in personIds) {
           model.TeamMembers.Add(people.Where(x => x.Id == int.Parse(id)).FirstOrDefault());
         }
-        var ids = new List<PersonModel>();
+
         output.Add(model);
       }
       return output;
